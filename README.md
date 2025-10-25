@@ -4,10 +4,10 @@
 ## TL;DR
 
 
-### - 📌 Current focus:
+### - 📌 Current focus: Machine Learning Specialization - Andrew Ng
 ### - 🧪 Active project:
-### - 🎯 Quarter goal:
-### - 🗓️ This week:
+### - 🎯 Quarter goal: Finish all moduls from first course
+### - 🗓️ This week: I modul in Regression and Classification
 
 
 ---
