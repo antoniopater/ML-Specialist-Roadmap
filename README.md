@@ -45,8 +45,8 @@ Progress legend: ✅ done • 🔄 in progress • ⏳ planned
 Repo notes: `01_course_notes/fastai/`
 
 
-🔄 DeepLearning.AI – Machine Learning Specialization (Ng)
-
+✅ DeepLearning.AI – Machine Learning Specialization (Ng)
+certification: https://www.coursera.org/account/accomplishments/certificate/UBI1V10CXDRN
 
 Repo notes: `01_course_notes/ng-ml-spec/`
 
