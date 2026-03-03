@@ -20,12 +20,13 @@
 
 1. Vision & Rules of the game
 2. Curriculum & Progress (courses + milestones)
-3. Projects (production‑grade)
-4. Research Practice (paper log & replications)
-5. Skills Matrix (tech & MLOps)
-6. Benchmarks & Competitions
-7. Public Notes / Writing
-8. Roadmap & Changelog
+3. Books – Python (Effektywny Python)
+4. Projects (production‑grade)
+5. Research Practice (paper log & replications)
+6. Skills Matrix (tech & MLOps)
+7. Benchmarks & Competitions
+8. Public Notes / Writing
+9. Roadmap & Changelog
 
 ---
 
@@ -96,6 +97,17 @@ Notes: 01_course_notes/dlai-ml-prod/
 
 ---
 
+## Books – Python (Effektywny Python)
+
+Czytam **Effektywny Python** (Effective Python, 3rd ed.) i równolegle podciągam Pythona: robię notatki z rozdziałów oraz notebooki z kodem z książki, żeby utrwalać idiomy i dobre praktyki.
+
+- Notatki: `01_course_notes/effective-python/` — streszczenia rozdziałów, wnioski.
+- Notebooki: `notebooks/effective-python/` — kod z rozdziałów, własne eksperymenty, ćwiczenia.
+
+Progress: ⏳ planned (rozpoczęcie po ustaleniu)
+
+---
+
 ## Projects (production‑grade)
 
 ---
@@ -135,7 +147,8 @@ ML-Specialist-Roadmap/
 │  ├─ cs224n/                # Stanford CS224n (NLP)
 │  ├─ hf-llm/                # Hugging Face LLM Course
 │  ├─ fsdl/                  # Full Stack Deep Learning
-│  └─ dlai-ml-prod/          # ML in Production (DLAI)
+│  ├─ dlai-ml-prod/          # ML in Production (DLAI)
+│  └─ effective-python/     # Effektywny Python – notatki z rozdziałów
 ├─ notebooks/                # Jupyter notebooks with code implementations
 │  ├─ fastai/                # fast.ai course notebooks
 │  ├─ ng-ml-spec/            # Machine Learning Specialization (Ng) ✅
@@ -147,7 +160,8 @@ ML-Specialist-Roadmap/
 │  ├─ cs224n/                # Stanford CS224n (NLP)
 │  ├─ hf-llm/                # Hugging Face LLM Course
 │  ├─ fsdl/                  # Full Stack Deep Learning
-│  └─ dlai-ml-prod/          # ML in Production (DLAI)
+│  ├─ dlai-ml-prod/          # ML in Production (DLAI)
+│  └─ effective-python/      # Effektywny Python – notebooki z rozdziałów
 ├─ 02_papers/                # Paper reading log and reproductions
 │  └─ paper-log.md           # Weekly paper log
 ├─ 03_projects/              # Production-grade ML projects

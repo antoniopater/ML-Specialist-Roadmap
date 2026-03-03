@@ -40,3 +40,4 @@ python scripts/script_name.py
 - `generate_progress_report.py` - Generate progress summary
 - `validate_structure.py` - Check repository structure integrity
 - `update_readme_progress.py` - Update progress in README automatically
+
